@@ -9,9 +9,9 @@ As a first deliverable in Mathematical Modeling, we decided to develop a Python 
     <img width="800" height="244" src="https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/SpyderLogo.png?raw=true">
 </p>
 
-<div style='text-align: center;'>
-    <p><strong>IDE: <em>Spyder 5.4.3</em></strong> - "The Scientific Python Development Environment".<p>
-</div>
+<p align="center">
+// <strong>IDE: <em>Spyder 5.4.3</em></strong> - "The Scientific Python Development Environment".
+</p>
 
 ## Credits
 __Code, Voila Report & Repo__ made by: Jesús Gerardo Ortiz Romero
