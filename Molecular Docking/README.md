@@ -8,7 +8,8 @@ descripcion breve
 
 | Avogadro 1.2.015                                                  | UCSF Chimera 1.17.1                                              |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Avogadro_Logo](Images/AvogadroLogo.jpeg)                        | ![Chimera_Logo](ChimeraLogo/dog.jpeg)                            |
+| ![Avogadro_Logo](MathModel-FiberEater-2023-iDL-FCB-UANL/Images    | ![Chimera_Logo](MathModel-FiberEater-2023-iDL-FCB-UANL/Images    |
+|  /AvogadroLogo.jpeg)                                              |  /ChimeraLogo.jpeg)                                  |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- |
 | Used for to design ligands, such as PTT, since there is no 3D     | Used for to use mathematical algorithms, such as the Lamarckian  |
 | information about it, and to optimize existing ligands            | algorithm, which allows us to add Gasteiger Charges to predict   |
