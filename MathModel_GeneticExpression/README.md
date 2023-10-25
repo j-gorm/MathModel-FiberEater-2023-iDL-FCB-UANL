@@ -10,7 +10,7 @@ As a first deliverable in Mathematical Modeling, we decided to develop a Python 
 </p>
 
 <p align="center">
-// <strong>IDE: <em>Spyder 5.4.3</em></strong> - "The Scientific Python Development Environment".
+<strong>IDE: <em>Spyder 5.4.3</em></strong> - "The Scientific Python Development Environment".
 </p>
 
 ## Credits
