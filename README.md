@@ -1,2 +1,3 @@
-# FiberEater Mathematical Modelling - iGEM FCB-UANL 2023
-Mathematical Modeling for the resolution of Ordinary Differential Equations (ODEs) and their respective graphing.
+# iGEM FCB-UANL: FiberEater (2023) - Mathematical Modeling 
+![FiberEater_Logo2023](https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/COVERGitHub.png?raw=true)
+
