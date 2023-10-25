@@ -4,7 +4,7 @@ Fashion and Fitness, who doesn't love these trends? But, are we aware of the pro
 In FCB-UANL we reflect on the environmental problems implied by fast fashion and how SynBio can act on it before it's too late.
 
 **Mathematical Modeling Committee** formed by:
-- Dulio Leonardo Ortiz Esparza. Committee Leader.
+- Dulio Leonardo Ortiz Esparza. **Committee Leader.**
 - Oliver Jair Garcia Gomez.
 - Jesús Gerardo Ortiz Romero.
 - Jesús Daniel Hernandez Elizondo. 
