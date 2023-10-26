@@ -9,7 +9,7 @@ In **FCB-UANL** we reflect on the environmental problems implied by fast fashion
 - Jesús Gerardo Ortiz Romero.
 - Jesús Daniel Hernandez Elizondo. 
 
-[DulioLeader](https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/DulioOrtiz.png?raw=true =300x300) ![OliverMember](https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/OliverGarcia.png?raw=true =300x300) ![JesúsMember](https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/JesúsRomero.png?raw=true =300x300) ! ![DanielMember](https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/DanielHernandez.png?raw=true =300x300)
+[DulioLeader](https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/DulioOrtiz.png =300x300) ![OliverMember](https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/OliverGarcia.png =300x300) ![JesúsMember](https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/JesúsRomero.png =300x300) ! ![DanielMember](https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/DanielHernandez.png =300x300)
 
 ## Special Acknowledgements
 <img align="right" width="405" height="289" src="https://github.com/ploomber/ploomber/blob/master/_static/logo.png?raw=true">Huge thanks to the Ploomber team and their mentoring programs, thanks to them we were able to deploy the reports online!
