@@ -11,14 +11,14 @@ In **FCB-UANL** we reflect on the environmental problems implied by fast fashion
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/DulioOrtiz.png" width="200" />
-  <img src="/https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/OliverGarcia.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/OliverGarcia.png" width="200" /> 
   <img src="https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/JesúsRomero.png" width="200" />
   <img src="https://raw.githubusercontent.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/main/Images/DanielHernandez.png" width="200" />
 </p>
 
 ## Special Acknowledgements
-<img align="right" width="405" height="289" src="https://github.com/ploomber/ploomber/blob/master/_static/logo.png?raw=true">Huge thanks to the Ploomber team and their mentoring programs, thanks to them we were able to deploy the reports online!
+<img align="right" width="405" height="289" src="https://github.com/ploomber/ploomber/blob/master/_static/logo.png?raw=true">Huge thanks to the <a href="https://github.com/ploomber/ploomber">Ploomber</a> team and their mentoring programs, thanks to them we were able to deploy the reports online!
 
 You can have a look at them here:
-- **[Mathematical Modeling Report](ENLACE AL REPORTE EN LINEA)**
-- **[Molecular Docking Report](ENLACE AL REPORTE EN LINEA)**
+- **[Mathematical Modeling Report](https://polished-scene-5114.ploomberapp.io)**
+- **[Molecular Docking Report](https://curly-dew-0170.ploomberapp.io)**

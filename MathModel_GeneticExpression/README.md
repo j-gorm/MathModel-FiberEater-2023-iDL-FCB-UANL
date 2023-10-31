@@ -2,7 +2,7 @@
 ![FiberEater_Logo2023](https://github.com/j-gorm/MathModel-FiberEater-2023-iDL-FCB-UANL/blob/main/Images/COVERGitHub.png?raw=true)
 
 ## Mathematical Modeling of Genetic Expression
-As a first deliverable in mathematical modeling, we decided to develop a Python code that allows us to clarify the behavior of the system proposed in the project, relying on mathematics to solve the behavior of the system once active, to finally obtain the enzyme activity and take a look at future opportunity areas to optimize the project.
+As a first deliverable in mathematical modeling, we decided to develop a **Python** code that allows us to clarify the _behavior_ of the system proposed in the project, relying on **mathematics** to solve the behavior of the system once active, to finally obtain the **enzyme activity** and take a look at future opportunity areas to _optimize_ the project.
 
 ## Programs Used
 <p align="center">
